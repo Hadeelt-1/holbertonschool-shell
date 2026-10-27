@@ -7,3 +7,4 @@
 6-third_line: displays the third line of the file iacta
 8-cwd_state: writes the result of ls -la into the file ls_cwd_content
 9-duplicate_last_line: duplicates the last line of the file iacta
+10-no_more_js: script that deletes all the regular files (not the directories)
