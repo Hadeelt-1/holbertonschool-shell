@@ -13,3 +13,4 @@
 12-combinations: Prints all possible two-letter combinations from aa to zz, except oo. |
 13-print_float: Prints the number stored in NUM with two decimal places. |
 14-decimal_to_hexadecimal: Converts a number from base 10 to base 16. |
+15-rot13: Encodes and decodes text using the rot13 encryption. |
