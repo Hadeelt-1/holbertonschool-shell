@@ -15,3 +15,4 @@
 14-decimal_to_hexadecimal: Converts a number from base 10 to base 16. |
 15-rot13: Encodes and decodes text using the rot13 encryption. |
 16-odd: Prints every other line from the input, starting with the first line. |
+17-water_and_stir: Adds WATER (base water) and STIR (base stir.) and prints the result in base bestchol. |
