@@ -12,3 +12,4 @@
 11-binary_to_decimal: Converts a number from base 2 to base 10. |
 12-combinations: Prints all possible two-letter combinations from aa to zz, except oo. |
 13-print_float: Prints the number stored in NUM with two decimal places. |
+14-decimal_to_hexadecimal: Converts a number from base 10 to base 16. |
