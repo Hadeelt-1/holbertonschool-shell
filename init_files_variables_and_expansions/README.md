@@ -3,3 +3,4 @@
 2-path: Add /action to the PATH. /action should be the last directory
 3-paths: Counts the number of directories in the PATH. |
 4-global_variables: Lists all environment variables. |
+5-local_variables: Lists all local variables, environment variables, and functions. |
